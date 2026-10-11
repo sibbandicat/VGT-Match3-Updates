@@ -1,0 +1,12 @@
+{
+    "version_code":  6,
+    "version_name":  "0.6.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc6/VGT-Match3-0.6.0-test-debug.apk",
+    "sha256":  "0b0e4192d2f8d6b0e993b832e698bcbd53a1b3bbdd38d57b825dc1f9cbb55c55",
+    "size_bytes":  180999434,
+    "mandatory":  false,
+    "notes":  "Первый OTA-тест: debug 0.6.0-test. Геймплей и сохранения без изменений.",
+    "package_id":  "com.sibbandicat.vgtmatch3",
+    "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
+    "channel":  "debug"
+}
