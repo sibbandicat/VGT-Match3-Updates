@@ -1,11 +1,11 @@
 {
-    "version_code":  6,
-    "version_name":  "0.6.0-test",
-    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc6/VGT-Match3-0.6.0-test-debug.apk",
-    "sha256":  "0b0e4192d2f8d6b0e993b832e698bcbd53a1b3bbdd38d57b825dc1f9cbb55c55",
-    "size_bytes":  180999434,
+    "version_code":  8,
+    "version_name":  "0.8.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc8/VGT-Match3-0.8.0-test-debug.apk",
+    "sha256":  "7608afe1006716322b636777aeab07e45e2c4f7107ea9a50420894d328aff192",
+    "size_bytes":  181003062,
     "mandatory":  false,
-    "notes":  "Первый OTA-тест: debug 0.6.0-test. Геймплей и сохранения без изменений.",
+    "notes":  "Исправлены OTA-установка и сохранение Смены 02. Повтор смены создаёт новое поле без повторного начисления прогресса. Добавлен подтверждаемый сброс кампании.",
     "package_id":  "com.sibbandicat.vgtmatch3",
     "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
     "channel":  "debug"
