@@ -1,11 +1,11 @@
 {
-    "version_code":  12,
-    "version_name":  "0.12.0-test",
-    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc12/VGT-Match3-0.12.0-test-debug.apk",
-    "sha256":  "1cdb7b565ef3058a0c2a1b26613f997d25b8cb792c9d5d9d24b212b6dc4a10c0",
-    "size_bytes":  183277403,
+    "version_code":  13,
+    "version_name":  "0.13.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc13/VGT-Match3-0.13.0-test-debug.apk",
+    "sha256":  "93079dca9316826d7d5e3dbe8f9ce96c941549bb92edc4b2775bbe1784cc4d23",
+    "size_bytes":  182491715,
     "mandatory":  false,
-    "notes":  "Тестовая версия 0.12: новый Димка в спецовке пьёт кофе, в игре появились звуки и музыка (выключаются в меню смены)",
+    "notes":  "Тестовая версия 0.13: Колян и Димка в новом комиксном стиле, Колян нарисован по новым фото",
     "package_id":  "com.sibbandicat.vgtmatch3",
     "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
     "channel":  "debug"
