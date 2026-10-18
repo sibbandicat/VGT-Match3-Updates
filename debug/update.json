@@ -1,11 +1,11 @@
 {
-    "version_code":  13,
-    "version_name":  "0.13.0-test",
-    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc13/VGT-Match3-0.13.0-test-debug.apk",
-    "sha256":  "93079dca9316826d7d5e3dbe8f9ce96c941549bb92edc4b2775bbe1784cc4d23",
-    "size_bytes":  182491715,
+    "version_code":  14,
+    "version_name":  "0.14.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc14/VGT-Match3-0.14.0-test-debug.apk",
+    "sha256":  "53b826ac60b322aa4a8711f042efeaa85408c766dbc3965479eccfa699692877",
+    "size_bytes":  177916391,
     "mandatory":  false,
-    "notes":  "Тестовая версия 0.13: Колян и Димка в новом комиксном стиле, Колян нарисован по новым фото",
+    "notes":  "Тестовая версия 0.14: вся игра в комиксном стиле — вёдра, поддоны и цех",
     "package_id":  "com.sibbandicat.vgtmatch3",
     "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
     "channel":  "debug"
