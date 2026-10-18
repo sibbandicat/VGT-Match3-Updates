@@ -1,11 +1,11 @@
 {
-    "version_code":  10,
-    "version_name":  "0.10.0-test",
-    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc10/VGT-Match3-0.10.0-test-debug.apk",
-    "sha256":  "6ed3b12b02a917086cb9193c72f49b6bcff0c4544ae64d195c65f4b945b857f7",
-    "size_bytes":  181441188,
+    "version_code":  11,
+    "version_name":  "0.11.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc11/VGT-Match3-0.11.0-test-debug.apk",
+    "sha256":  "b2a265a8b3e35a3788f2c80015b1537242ff4e93ee77cbf7dea602220abc6313",
+    "size_bytes":  180057840,
     "mandatory":  false,
-    "notes":  "Склад ожил: палеты 3×3, Колян ездит спокойнее и отдыхает, Димка курит и сам идёт за IBC. Исправлено восстановление палеты на вилах.",
+    "notes":  "Тестовая версия 0.11: новый фон цеха, сочные спецэффекты, ожившая кара Коляна, Димка ближе и увозит кубы направо",
     "package_id":  "com.sibbandicat.vgtmatch3",
     "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
     "channel":  "debug"
