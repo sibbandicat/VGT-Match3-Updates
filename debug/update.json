@@ -1,11 +1,11 @@
 {
-  "version_code": 16,
-  "version_name": "0.16.0-test",
-  "apk_url": "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc16/VGT-Match3-0.16.0-test-debug.apk",
-  "sha256": "25372f5d77192f515e7e6a264b16d11ab2ce3b24e0d8b7b0252453c05fd33d1b",
-  "size_bytes": 176247844,
+  "version_code": 17,
+  "version_name": "0.17.0-test",
+  "apk_url": "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc17/VGT-Match3-0.17.0-test-debug.apk",
+  "sha256": "a04ebd1ddbede34706e43c49b62875255bdf7b578c7b9250d378bdcd35faa622",
+  "size_bytes": 176249079,
   "mandatory": false,
-  "notes": "Новые формы упаковок ГГТ, обновлённые Колян и Виталя, короткий жест Витали во время отдыха, цвет и свет цеха.",
+  "notes": "Исправлено просвечивание Витали при жесте рукой. Механика и сохранения без изменений.",
   "package_id": "com.sibbandicat.vgtmatch3",
   "signing_sha256": "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
   "channel": "debug"
