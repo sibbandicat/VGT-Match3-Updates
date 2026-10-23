@@ -1,11 +1,11 @@
 {
-    "version_code":  18,
-    "version_name":  "0.18.0-test",
-    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc18/VGT-Match3-0.18.0-test-debug.apk",
-    "sha256":  "1a687d38ea4e3863a58daebd7adb528a152e41343ccb755b78fb4900efcc8a84",
-    "size_bytes":  176249923,
+    "version_code":  19,
+    "version_name":  "0.19.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc19/VGT-Match3-0.19.0-test-debug.apk",
+    "sha256":  "bce670403c66175d557dceb26cfe811c004916512f4c30e2c26f82354ed444bc",
+    "size_bytes":  176358576,
     "mandatory":  false,
-    "notes":  "Тестовая версия 0.18: ходы без подёргиваний, обновление скачивается и на медленном интернете",
+    "notes":  "Тестовая версия 0.19: рохля Виталия после четвёрки, ходы свайпом",
     "package_id":  "com.sibbandicat.vgtmatch3",
     "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
     "channel":  "debug"
