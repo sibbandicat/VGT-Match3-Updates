@@ -1,11 +1,11 @@
 {
-    "version_code":  19,
-    "version_name":  "0.19.0-test",
-    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc19/VGT-Match3-0.19.0-test-debug.apk",
-    "sha256":  "bce670403c66175d557dceb26cfe811c004916512f4c30e2c26f82354ed444bc",
-    "size_bytes":  176358576,
+    "version_code":  20,
+    "version_name":  "0.20.0-test",
+    "apk_url":  "https://github.com/sibbandicat/VGT-Match3-Updates/releases/download/android-debug-vc20/VGT-Match3-0.20.0-test-debug.apk",
+    "sha256":  "1d79b349bea2c7509e1c58f2ab76172e952ab3ae674f86e837c04b2fc3431e75",
+    "size_bytes":  176503564,
     "mandatory":  false,
-    "notes":  "Тестовая версия 0.19: рохля Виталия после четвёрки, ходы свайпом",
+    "notes":  "Тестовая версия 0.20: суперкомбинации, понятный учёт заказа, Срочная отгрузка и Колеровка",
     "package_id":  "com.sibbandicat.vgtmatch3",
     "signing_sha256":  "76071225b067dad6f92915c4c61d9b043def1812886f59664315eaff3dd5c5bb",
     "channel":  "debug"
